@@ -1,0 +1,1 @@
+C:\AndroidDevelopment\CalculaJuros\CalculaJuros\obj\Debug\CalculaJuros.csprojAssemblyReference.cache
